@@ -1,0 +1,22 @@
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FAD8D8;
+    color: #555555;
+}
+.container header {
+    text-align: center;
+    background-color: #EEF0F2;
+}
+.container header nav:link {
+    color: #891313;
+    text-decoration: none;
+}
+.container main article {
+    background-color: #FAE3E3;
+}
+.container footer {
+    text-align: center;
+     background-color: #EEF0F2;
+}
